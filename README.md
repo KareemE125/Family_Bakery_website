@@ -1,4 +1,4 @@
-# Family_Bakery_website
+# Family Bakery website
 A website for a bakery shop
 
 The website has 6 sections:
