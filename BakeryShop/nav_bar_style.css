@@ -1,6 +1,6 @@
 nav{
     width: 80%;
-    height: 9vh;
+    height: 4em;
     background-color: white;
     padding: 0px 10%;
     position: fixed;
@@ -8,12 +8,11 @@ nav{
 }
 
 #logoDiv{
-    background-color: transparent;
-    height: 100%;    
+    width: 30%;
 }
 
 #logoDiv img{
-    height: 75%;
+    height: 3em;
     padding-top: 10px;   
 }
 
